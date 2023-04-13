@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
 	@override
 	Widget build(BuildContext context) {
 	return MaterialApp(
-		title: 'deneme1',
+		title: 'deneme2',
 		debugShowCheckedModeBanner: false,
 		scrollBehavior: MyCustomScrollBehavior(),
 		theme: ThemeData(
