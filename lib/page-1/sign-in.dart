@@ -60,7 +60,7 @@ class SigninScreen extends StatelessWidget {
                             // dhw (I1:133;2:11)
                             margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 225.69*fem, 0*fem),
                             child: Text(
-                              '11:11',
+                              'deneme3',
                               style: SafeGoogleFont (
                                 'Poppins',
                                 fontSize: 14*ffem,
