@@ -210,7 +210,7 @@ class RegistrationScreen extends StatelessWidget {
                   borderRadius: BorderRadius.circular(8 * fem),
                 ),
                 child: Text(
-                  'Full Name',
+                  'deneme4',
                   style: SafeGoogleFont(
                     'Poppins',
                     fontSize: 13 * ffem,
